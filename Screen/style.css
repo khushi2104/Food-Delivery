@@ -1,0 +1,10 @@
+.all{
+    background-color: black;
+    color: aliceblue;
+}
+.carousel-item{
+    max-height: 500px;
+}
+#carouselExampleIndicators{
+    object-fit: contain !important;
+}
